@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookAnalyzer", "FacebookAnalyzer\FacebookAnalyzer.csproj", "{50A546D0-9701-44BA-8570-E16A15A33C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viewer", "Viewer\Viewer.csproj", "{8982CD8C-EFB8-4801-8965-BB930CA50983}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bizness", "Bizness\Bizness.csproj", "{1BAB8308-DB89-44EA-B288-CAC1B35B09B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewerMarket", "ViewerMarket\ViewerMarket.csproj", "{27272A63-488D-4125-9528-D106CBD3FB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewerGroups", "ViewerGroups\ViewerGroups.csproj", "{425D9007-0DFA-450B-9A9F-56F1B01627E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facebook Analytics", "Facebook Anaytics\Facebook Analytics.csproj", "{DE2814C4-6E76-4697-BB3D-712A4E7BCEA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A546D0-9701-44BA-8570-E16A15A33C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A546D0-9701-44BA-8570-E16A15A33C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A546D0-9701-44BA-8570-E16A15A33C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A546D0-9701-44BA-8570-E16A15A33C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8982CD8C-EFB8-4801-8965-BB930CA50983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8982CD8C-EFB8-4801-8965-BB930CA50983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8982CD8C-EFB8-4801-8965-BB930CA50983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8982CD8C-EFB8-4801-8965-BB930CA50983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BAB8308-DB89-44EA-B288-CAC1B35B09B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAB8308-DB89-44EA-B288-CAC1B35B09B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAB8308-DB89-44EA-B288-CAC1B35B09B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAB8308-DB89-44EA-B288-CAC1B35B09B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27272A63-488D-4125-9528-D106CBD3FB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27272A63-488D-4125-9528-D106CBD3FB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27272A63-488D-4125-9528-D106CBD3FB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27272A63-488D-4125-9528-D106CBD3FB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425D9007-0DFA-450B-9A9F-56F1B01627E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425D9007-0DFA-450B-9A9F-56F1B01627E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425D9007-0DFA-450B-9A9F-56F1B01627E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425D9007-0DFA-450B-9A9F-56F1B01627E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2814C4-6E76-4697-BB3D-712A4E7BCEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2814C4-6E76-4697-BB3D-712A4E7BCEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2814C4-6E76-4697-BB3D-712A4E7BCEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2814C4-6E76-4697-BB3D-712A4E7BCEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {484F47D7-A631-4D16-A842-7B6EE70C37EB}
+	EndGlobalSection
+EndGlobal
